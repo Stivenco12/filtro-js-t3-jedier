@@ -1,0 +1,58 @@
+[{  
+    "DC":{
+        "batman" : {
+            "Id" :"1",
+            "img" : "https://cdn.pixabay.com/photo/2024/01/15/11/36/batman-8510022_640.png",
+            "nombre" : "Bruce Wayne",
+            "biografia" : "Batman es la identidad secreta de Bruce Wayne, un empresario multimillonario, galán y filántropo. Presenció el asesinato de sus padres cuando era niño lo marcó profundamente y lo llevó a entrenarse en la perfección física e intelectual para ponerse un disfraz de murciélago con el fin de combatir el crimen.",
+            "debilidad" : "Batman puede llegar a resultar demasiado predecible",
+            "año" : "1939"
+        },
+        
+        "superman" : {
+            "Id" :"2",
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhulCpI026RzWVoT6Y3aJ0BhwmC9-3SxLPKg&s" ,
+            "nombre" : "Clar kent",
+            "biografia": "Superman nació en el planeta ficticio Krypton y recibió el nombre de nacimiento Kal-El. Cuando era un bebé, sus padres, el científico Jor-El y su esposa Lara Lor-Van, lo enviaron a la Tierra en una pequeña nave espacial momentos antes de que Krypton fuera destruido en un cataclismo natural.",
+            "debilidad": "Kryptonita",
+            "año" : "1938"
+        },
+        "aquaman" : {
+            "Id" :"3",
+            "img" : "https://i.pinimg.com/originals/a5/b6/fe/a5b6fe6cd6c3b03ba618c86868586c45.jpg" ,
+            "nombre" : "Arthur Curry",
+            "biografia": " Mi madre murió cuando yo era un bebé, y él volvió a su trabajo para resolver los secretos del océano",
+            "debilidad":"vulnerable a ataques con venen o similares",
+            "año" :"1941 " 
+        },
+        "literna-verde" : {
+            "Id" :"4",
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgB1aglo8_8c9tHj8yUeOja5-aozNVSdRgMg&s",
+            "nombre" : "jal yordan" ,
+            "biografia": " un piloto de pruebas a quien un extraterrestre moribundo, Abin Sur, le dio un anillo de poder y que se convirtió en miembro del Cuerpo de Linternas Verdes" ,
+            "debilidad": " Color amarillo",
+            "año" : "1940" 
+        },
+        "mujer-maravilla" : {
+            "Id" :"5",
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm5ukTJqgtr3CMRfR9v3fW2ScocLC5UFUaZg&s",
+            "nombre" : "Diana Prince",
+            "biografia":"princesa guerrera de las Amazonas, pueblo ficticio basado en el de las amazonas de la mitología griega" ,
+            "debilidad": "ella era susceptible a perder sus poderes si un hombre la encadenada, ataba o si unía sus característicos brazaletes",
+            "año" : "1941 "
+        },
+        "Raven" : {
+            "Id" :"6",
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE2HJ88iT9jLbmO7FdbXvN9JM60Qlj50fu_A&s" ,
+            "nombre" : "cuervo",
+            "biografia": "Raven es la hija del demonio interdimensional Trigon." ,
+            "debilidad":""
+        }
+    }
+},
+{
+    "MARVEl":{
+
+    }
+}
+]
